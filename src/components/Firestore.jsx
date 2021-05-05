@@ -162,6 +162,7 @@ const Firestore = (props) => {
                             modoEdicion ? 'Editar' : 'Agregar'
                         }
                         </button>
+                        
                     </form>
                 </div>
             </div> 
